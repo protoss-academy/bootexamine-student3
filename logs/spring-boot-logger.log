@@ -1,0 +1,4 @@
+2020-09-01 01:17:30,053 INFO org.springframework.boot.StartupInfoLogger [main] Starting BootexamineApplication on KB-19A3KC30K8 with PID 42559 (/Users/kittichai.c/Documents/KBTG_Training/bootexamine-student3/target/classes started by kittichai.c in /Users/kittichai.c/Documents/KBTG_Training/bootexamine-student3)
+2020-09-01 01:17:30,055 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE
+2020-09-01 01:17:30,056 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-09-01 01:17:34,184 INFO org.springframework.boot.StartupInfoLogger [main] Started BootexamineApplication in 4.522 seconds (JVM running for 4.868)
